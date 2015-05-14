@@ -1,8 +1,8 @@
 # Screenulator
  A small simulator that demonstrates the available data about the browser window and the OS environment.
  
+ demo: <a href="https://mrbar42.github.io/screenulator">https://mrbar42.github.io/screenulator</a>
  
- ---------------------------------------
  
 ## What is Screenulator?
  Screenulator is simulator of your browser window with the available data about the browser and hosting Operating system through javascript.
